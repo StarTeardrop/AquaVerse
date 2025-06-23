@@ -1,7 +1,7 @@
 # 🌊 AquaVerse: Augmented Quasi-physical Aquatic Universe for Realistic Underwater Robot Simulation
 
 <div align="center">
-  <img src="Rqc/overview.png" alt="AquaVerse Logo" width="1100"/>
+  <img src="rqc/overview.png" alt="AquaVerse Logo" width="1100"/>
 </div>
 
 
@@ -19,17 +19,17 @@ Aquaverse is an underwater robot simulation platform based on **unreal engine 5.
 
 ## 🎥 Underwater Image Rendering Preview
 <div align="center">
-  <img src="Rqc/render.png" alt="Underwater Rendering Preview" width="400"/>
+  <img src="rqc/render.png" alt="Underwater Rendering Preview" width="400"/>
 </div>
 
 ## 📡 Image and Imaging Sonar Demo
 <div align="center">
-  <img src="Rqc/demo.gif" alt="Multibeam Sonar Demo" width="500"/>
+  <img src="rqc/demo.gif" alt="Multibeam Sonar Demo" width="500"/>
 </div>
 
 ## 📡 Formation Demo
 <div align="center">
-  <img src="Rqc/formation.gif" alt="Multibeam Sonar Demo" width="500"/>
+  <img src="rqc/formation.gif" alt="Multibeam Sonar Demo" width="500"/>
 </div>
 
 ## 📅 Future Plans
