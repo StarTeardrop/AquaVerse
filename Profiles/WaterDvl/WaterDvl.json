@@ -1,0 +1,7 @@
+{
+    "bEnableDvlVisable": false,
+    "TiltAngleDeg": 25.0,
+    "RayLength": 50000.0,
+    "DvlFrequency": 50.0,
+    "NoiseStdDev": 0.5
+}

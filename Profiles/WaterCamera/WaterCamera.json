@@ -1,0 +1,25 @@
+{
+    "TargetArmLength": 150.0,
+    "TargetArmSocketOffset": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 50.0
+    },
+    "CameraCaptureFrameRate": 25,
+    "CameraCaptureWidth": 512,
+    "CameraCaptureHeight": 256,
+    "CameraMaxDepth": 10000.0,
+    "CameraBetaAttenR": 0.15,
+    "CameraBetaAttenG": 0.07,
+    "CameraBetaAttenB": 0.03,
+    "CameraBetaBackscatterR": 0.03,
+    "CameraBetaBackscatterG": 0.02,
+    "CameraBetaBackscatterB": 0.01,
+    "CameraBInf": {
+        "X": 103.0,
+        "Y": 184.0,
+        "Z": 131.0
+    },
+    "CameraAlpha": 0.3,
+    "CameraLambda": 0.8
+}

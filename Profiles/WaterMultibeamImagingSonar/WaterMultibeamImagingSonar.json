@@ -1,0 +1,19 @@
+{
+    "bIsMultibeamImagingSonarMaterialVisible": true,
+    "BeamPosition": {
+        "X": 10,
+        "Y": 0,
+        "Z": 0
+    },
+    "Radius": 1500.0,
+    "HorizontalAngleDeg": 130.0,
+    "VerticalAngleDeg": 20.0,
+    "HorizontalSegments": 512,
+    "VerticalSegments": 256,
+    "bEnableMultibeamImagingSonarScanDrawVisable": false,
+    "MultibeamImagingSonarScanDrawInterval": 1,
+    "MultibeamImagingSonarFrequence": 10,
+    "SonarImageWidth": 512,
+    "SonarImageHeight": 312,
+    "SonarImageMarginRatio": 0.05
+}

@@ -1,0 +1,7 @@
+{
+    "IMUFrequency": 50.0,
+    "AccelNoiseSigma": 0.001,
+    "AccelBiasSigma": 0.001,
+    "GyroNoiseSigma": 0.01,
+    "GyroBiasSigma": 0.001
+}

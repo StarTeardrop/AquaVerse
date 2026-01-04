@@ -1,0 +1,42 @@
+{
+    "Pontoon": {
+        "RelativeLocation": {
+            "X": 1.2,
+            "Y": 0.0,
+            "Z": 14.0
+        },
+        "Radius": 61.0,
+        "bFxEnable": true
+    },
+    "BuoyancyCoefficient": 0.1,
+    "BuoyancyDamp": 500.0,
+    "BuoyancyDamp2": 1.0,
+    "BuoyancyRampMinVelocity": 20.0,
+    "BuoyancyRampMaxVelocity": 20.0,
+    "BuoyancyRampMax": 1.0,
+    "MaxBuoyantForce": 85000.0,
+    "bApplyDragForcesInWater": true,
+    "DragCoefficient": 20.0,
+    "DragCoefficient2": 0.01,
+    "AngularDragCoefficient": 1.0,
+    "MaxDragSpeed": 15.0,
+    "bApplyRiverForces": true,
+    "RiverPontoonIndex": 0,
+    "WaterShorePushFactor": 0.3,
+    "RiverTraversalPathWidth": 300.0,
+    "MaxShorePushForce": 300.0,
+    "WaterVelocityStrength": 0.01,
+    "MaxWaterForce": 10000.0,
+    "bAlwaysAllowLateralPush": false,
+    "bAllowCurrentWhenMovingFastUpstream": false,
+    "bApplyDownstreamAngularRotation": false,
+    "DownstreamAxisOfRotation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+    },
+    "DownstreamRotationStrength": 0.05,
+    "DownstreamRotationStiffness": 20.0,
+    "DownstreamRotationAngularDamping": 5.0,
+    "DownstreamMaxAcceleration": 10.0
+}

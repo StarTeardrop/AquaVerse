@@ -1,0 +1,54 @@
+{
+    "OnWaterBodySettings": {
+        "Absorption": {
+            "R": 10.0,
+            "G": 150.0,
+            "B": 350.0,
+            "A": 8.0
+        },
+        "FormScattering": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 5.0
+        },
+        "Foramnormal": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 1.0,
+            "A": 0.0
+        },
+        "Scattering": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.5
+        }
+    },
+    "UnderWaterBodySettings": {
+        "Absorption": {
+            "R": 25.0,
+            "G": 5.0,
+            "B": 2.0,
+            "A": 7500.0
+        },
+        "BandColor": {
+            "R": 0.01,
+            "G": 0.2,
+            "B": 0.3,
+            "A": 8.0
+        },
+        "FogAmbientColor": {
+            "R": 0.1,
+            "G": 0.4,
+            "B": 0.75,
+            "A": 0.25
+        },
+        "FogScatterColor": {
+            "R": 0.5,
+            "G": 1.0,
+            "B": 0.75,
+            "A": 3.0
+        }
+    }
+}

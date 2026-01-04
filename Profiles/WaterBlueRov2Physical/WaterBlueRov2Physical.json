@@ -1,0 +1,7 @@
+{
+    "bEnablePhysicalSimulation": true,
+    "Mass": 60.0,
+    "LinearDamping": 0.01,
+    "AngularDamping": 8.0,
+    "bEnableGravity": true
+}

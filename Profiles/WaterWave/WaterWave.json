@@ -1,0 +1,16 @@
+{
+    "bAddWaves": false,
+    "NumWaves": 1,
+    "Seed": 0,
+    "MinWavelength": 521.0,
+    "MaxWavelength": 10000.0,
+    "WavelengthFalloff": 2.0,
+    "MinAmplitude": 4.0,
+    "MaxAmplitude": 80.0,
+    "AmplitudeFalloff": 2.0,
+    "WindAngleDeg": 0.0,
+    "DirectionAngularSpreadDeg": 1325.0,
+    "SmallWaveSteepness": 0.1,
+    "LargeWaveSteepness": 0.2,
+    "SteepnessFalloff": 1.0
+}

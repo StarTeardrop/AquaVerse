@@ -1,0 +1,151 @@
+{
+    "RobotNum": 1,
+    "RobotType": "BlueRov2",
+    "RobotInitPosition": {
+        "Id0": {
+            "X": 0,
+            "Y": 0,
+            "Z": 1
+        },
+        "Id1": {
+            "X": 500,
+            "Y": 0,
+            "Z": 25
+        },
+        "Id2": {
+            "X": 250,
+            "Y": 433,
+            "Z": 25
+        },
+        "Id3": {
+            "X": -250,
+            "Y": 433,
+            "Z": 25
+        },
+        "Id4": {
+            "X": -500,
+            "Y": 0,
+            "Z": 25
+        },
+        "Id5": {
+            "X": -250,
+            "Y": -433,
+            "Z": 25
+        },
+        "Id6": {
+            "X": 250,
+            "Y": -433,
+            "Z": 25
+        }
+    },
+    "RobotInitRotation": {
+        "Id0": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Id1": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Id2": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Id3": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Id4": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Id5": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Id6": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        }
+    },
+    "CameraNumEachRobot": 1,
+    "CameraInitPosition": {
+        "Id0": {
+            "X": 22,
+            "Y": 0,
+            "Z": 10
+        }
+    },
+    "CameraInitRotation": {
+        "Id0": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        }
+    },
+    "CameraStaus": {
+        "Id0": true,
+        "Id1": false,
+        "Id2": false,
+        "Id3": false,
+        "Id4": false,
+        "Id5": false,
+        "Id6": false
+    },
+    "MultibeamImagingSonarStaus": {
+        "Id0": true,
+        "Id1": false,
+        "Id2": false,
+        "Id3": false,
+        "Id4": false,
+        "Id5": false,
+        "Id6": false
+    },
+    "MultibeamImagingSonarInitPosition": {
+        "X": 0,
+        "Y": 0,
+        "Z": -10
+    },
+    "MultibeamImagingSonarInitRotation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "ImuInitPosition": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "ImuInitRotation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "PositionInitPosition": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "PositionInitRotation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "DvlInitPosition": {
+        "X": 0,
+        "Y": 0,
+        "Z": -18.0
+    },
+    "DvlInitRotation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    }
+}
