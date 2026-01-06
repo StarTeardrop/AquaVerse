@@ -58,7 +58,7 @@ This section introduces how to quickly deploy and run **AquaVerse** for underwat
 To ensure stable simulation and high-fidelity sonar rendering, the following environment is recommended:
 
 - 🖥 **OS**: Windows 10 / 11 (64-bit)  
-  *(TODO: Ubuntu 20.04 support)*
+  *(TODO: Ubuntu 20.04 and ROS support)*
 
 - 🎮 **Engine**: Unreal Engine **5.5**
 
