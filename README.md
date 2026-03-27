@@ -47,6 +47,16 @@ We are actively improving **AquaVerse** to make it more powerful, extensible, an
 We welcome suggestions and contributions! Please feel free to open an [issue](https://github.com/your-org/aquaverse/issues) or start a [discussion](https://github.com/your-org/aquaverse/discussions).
 
 
+If you use **AquaVerse** in your research or project, please cite:
+
+```bibtex
+@software{aquaverse_2026,
+  author = {Jibo Bai},
+  title = {AquaVerse: Augmented Quasi-physical Aquatic Universe for Realistic Underwater Robot Simulation},
+  year = {2026},
+  url = {https://github.com/StarTeardrop/AquaVerse},
+}
+
 ## 🧭 Usage Tutorial
 
 This section introduces how to quickly deploy and run **AquaVerse** for underwater robot simulation, sensor rendering, and multi-agent experiments.
