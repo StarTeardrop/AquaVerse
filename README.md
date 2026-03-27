@@ -51,7 +51,7 @@ If you use **AquaVerse** in your research or project, please cite:
 
 ```bibtex
 @software{aquaverse_2026,
-  author = {Jibo Bai},
+  author = {Jibo Bai, Yifeng Zhang, Haoming Ji, Bowen Fu},
   title = {AquaVerse: Augmented Quasi-physical Aquatic Universe for Realistic Underwater Robot Simulation},
   year = {2026},
   url = {https://github.com/StarTeardrop/AquaVerse},
