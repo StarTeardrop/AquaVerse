@@ -56,6 +56,7 @@ If you use **AquaVerse** in your research or project, please cite:
   year = {2026},
   url = {https://github.com/StarTeardrop/AquaVerse},
 }
+```
 
 ## 🧭 Usage Tutorial
 
