@@ -46,18 +46,6 @@ We are actively improving **AquaVerse** to make it more powerful, extensible, an
 
 We welcome suggestions and contributions! Please feel free to open an [issue](https://github.com/your-org/aquaverse/issues) or start a [discussion](https://github.com/your-org/aquaverse/discussions).
 
-
-If you use **AquaVerse** in your research or project, please cite:
-
-```bibtex
-@software{aquaverse_2026,
-  author = {Jibo Bai, Yifeng Zhang, Haoming Ji, Bowen Fu},
-  title = {AquaVerse: Augmented Quasi-physical Aquatic Universe for Realistic Underwater Robot Simulation},
-  year = {2026},
-  url = {https://github.com/StarTeardrop/AquaVerse},
-}
-```
-
 ## 🧭 Usage Tutorial
 
 This section introduces how to quickly deploy and run **AquaVerse** for underwater robot simulation, sensor rendering, and multi-agent experiments.
@@ -103,3 +91,20 @@ AquaVerseKeyboard_Control.py file parameters:
     exe_path = r"E:\Test\Windows\AquaVerse.exe" -->>Change to the address of the 'AquaVerse.exe' executable file extracted after downloading from Google disk
     profile_path = r'C:\Users\21058\Desktop\Profiles' -->> Modify to the 'Profiles' folder address under git directory
 If you need to adjust the sensor and robot parameters, please refer to the parameters of each JSON file under the profiles folder (At present, only bluerov2 type robots are supported, and other types will be added in subsequent versions)
+```
+
+If you use **AquaVerse** in your research or project, please cite:
+```bibtex
+@ARTICLE{auqaverse,
+  author={Bai, Jibo and Zhu, Daqi and Chen, Mingzhi},
+  journal={IEEE Internet of Things Journal}, 
+  title={Aqua-Verse: Augmented Quasi-Physical Aquatic Universe for Realistic Underwater Robot Simulation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Modeling;Simulation;Wireless Access in Vehicular Environments;Waves;Robots;Autonomous underwater vehicles;Water;Sonar;Timing;Fluids;Aqua-Verse;Physical Collision;Hydrodynamic Interaction;Gerstner Waves;Underwater Image Rendering;Underwater Acoustic Simulation},
+  doi={10.1109/JIOT.2026.3698460}}
+```
+
+
