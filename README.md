@@ -89,7 +89,7 @@ If the python related package is missing, please install it with pip.
 
 AquaVerseKeyboard_Control.py file parameters:
     exe_path = r"E:\Test\Windows\AquaVerse.exe" -->>Change to the address of the 'AquaVerse.exe' executable file extracted after downloading from Google disk
-    profile_path = r'C:\Users\21058\Desktop\Profiles' -->> Modify to the 'Profiles' folder address under git directory
+    profile_path = r'C:\Users\21058\Desktop\Profiles' -->> Modify to the 'Profiles' folder address under git directory (It must be an absolute path address, not a relative address).
 If you need to adjust the sensor and robot parameters, please refer to the parameters of each JSON file under the profiles folder (At present, only bluerov2 type robots are supported, and other types will be added in subsequent versions)
 ```
 
